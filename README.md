@@ -14,9 +14,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/nniedev/landing-page-2)
 
 
-<!--![Vinnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nniedev&show_icons=true&theme=tokyonight)-->
+![Vinnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nniedev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nniedev&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nniedev&layout=compact)-->
 
 ## About Me:
 Im a Data Science & Artificial Intelligence Student from Campinas - SP (Brazil) that always look for improvements and for the first professional opportunity!
